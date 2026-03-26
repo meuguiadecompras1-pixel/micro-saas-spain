@@ -12,10 +12,12 @@ export function Footer({ title, tagline }: FooterProps) {
         <p className="font-semibold text-white text-lg">{title}</p>
         <p className="mt-2 text-sm">{tagline}</p>
         <p className="mt-6 text-xs">© {new Date().getFullYear()} {title}. Todos los derechos reservados.</p>
-        <div className="flex justify-center gap-6 mt-4 text-xs">
-          <a href="/privacidad" className="hover:text-white transition-colors">Política de Privacidad</a>
-          <a href="/terminos" className="hover:text-white transition-colors">Términos de Servicio</a>
+        <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 mt-4 text-xs">
+          <a href="/sobre-nosotros" className="hover:text-white transition-colors">Sobre Nosotros</a>
           <a href="/contacto" className="hover:text-white transition-colors">Contacto</a>
+          <a href="/privacidad" className="hover:text-white transition-colors">Privacidad</a>
+          <a href="/cookies" className="hover:text-white transition-colors">Cookies</a>
+          <a href="/aviso-legal" className="hover:text-white transition-colors">Aviso Legal</a>
         </div>
       </div>
     </footer>
