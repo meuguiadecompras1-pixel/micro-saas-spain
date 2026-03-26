@@ -164,10 +164,15 @@ export function DashboardTemplate({
       {/* Dashboard header */}
       <header style={{ backgroundColor: accentColor }} className="text-white py-6">
         <div className="max-w-6xl mx-auto px-4 flex items-center justify-between">
-          <a href="/" className="flex items-center gap-2 font-bold text-xl">
-            <span>{emoji}</span>
-            <span>{title}</span>
-          </a>
+          <div className="flex items-center gap-4">
+            <a href="/" className="flex items-center gap-2 font-bold text-xl">
+              <span>{emoji}</span>
+              <span>{title}</span>
+            </a>
+            <a href="/" className="text-sm opacity-80 hover:opacity-100 border border-white/30 px-3 py-1 rounded-lg">
+              🏠 Blog
+            </a>
+          </div>
           <button
             onClick={() => fetch('/api/auth/logout', { method: 'POST' }).then(() => window.location.href = '/')}
             className="text-sm opacity-80 hover:opacity-100"
