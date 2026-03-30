@@ -653,8 +653,8 @@ export const articles = [
     slug: 'ajuste-fino-lastrado',
     title: 'Cómo Hacer el Ajuste Fino del Lastrado: El Protocolo Paso a Paso',
     excerpt: 'Protocolo de 3 pasos para calibrar tu lastre en el agua: test de superficie, test a 5 metros y test de botellín vacío. Incluye tabla acero vs aluminio y cómo afecta el cambio de peso corporal.',
-    image: 'https://images.unsplash.com/photo-1488829068083-58e9c3afea73?w=1200&h=630&fit=crop&q=80',
-    imageAlt: 'Buceador realizando ajuste de flotabilidad bajo el agua',
+    image: '/images/ajuste-fino-lastrado.png',
+    imageAlt: 'Buceadora ajustando el cinturón de plomos bajo el agua en arrecife de coral',
     publishedAt: '2026-03-20',
     faq: [
       { q: '¿Con qué frecuencia debo repetir el ajuste fino?', a: 'Cada vez que cambies de traje, de tipo de agua, de cilindro (acero vs aluminio) o si tu peso corporal ha variado más de 5 kg. En general, una vez al año como mínimo, al inicio de la temporada.' },
@@ -833,5 +833,119 @@ export const articles = [
 
 <h3>¿Por qué al final de la inmersión siempre me cuesta mantenerme a 5 metros para la parada de seguridad?</h3>
 <p>Es el problema más común y casi siempre tiene la misma causa: estás sobre-lastrado en general, pero compensas con el BCD durante la inmersión. Al final de la inmersión, el botellín casi vacío pesa menos (1,5-2 kg menos que al inicio), así que eres más positivo. Si tu BCD estaba ya algo inflado para compensar el sobre-lastrado, y ahora el botellín pesa menos, de repente subes. La solución es ajustar el lastrado para que al inicio de la inmersión seas ligeramente negativo con el BCD vacío, no usar el BCD para compensar el exceso de lastre.</p>`,
+  },
+  {
+    slug: 'mejores-puntos-buceo-costa-brava',
+    title: 'Los 7 Mejores Puntos de Buceo en la Costa Brava para Principiantes',
+    excerpt: 'Descubre los 7 mejores puntos de buceo de la Costa Brava aptos para principiantes: profundidades, visibilidad, fauna y qué lastrado necesitas en cada zona.',
+    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Costa Brava con aguas cristalinas para buceo',
+    publishedAt: '2026-03-22',
+    faq: [
+      { q: '¿Cuándo es la mejor época para bucear en la Costa Brava?', a: 'De mayo a octubre es la temporada ideal. En verano la visibilidad puede llegar a 20-25 metros y el agua alcanza los 24-26°C en superficie. En septiembre y octubre el agua sigue templada pero hay menos barcos y turistas, lo que muchos buceadores prefieren.' },
+      { q: '¿Necesito permiso para bucear en las Islas Medes?', a: 'Sí. Las Islas Medes son reserva marina y el acceso está regulado. Debes reservar tu plaza con antelación a través de los centros de buceo autorizados de L\'Estartit. El número de buceadores diarios está limitado para proteger el ecosistema.' },
+      { q: '¿Qué traje necesito para bucear en la Costa Brava en verano?', a: 'En verano (julio-agosto), con agua a 23-26°C en superficie y 17-19°C a 20 metros, un traje de 5mm es suficiente para la mayoría. Si eres friolero o haces inmersiones largas a más profundidad, un 7mm es más cómodo.' },
+      { q: '¿Por qué el Cap de Creus tiene mayor salinidad que el resto de la Costa Brava?', a: 'El Cap de Creus es el punto más expuesto al Mediterráneo abierto en el extremo noreste catalán. Las corrientes que vienen del norte concentran sal y hay menos aporte de agua dulce de ríos. La salinidad puede alcanzar el 38‰, frente al 37‰ habitual del Mediterráneo catalán.' },
+    ],
+    content: `<p>La Costa Brava es uno de los mejores destinos de buceo de España, y uno de los más accesibles para quienes están empezando. El agua es relativamente cálida en verano, hay una infraestructura turística consolidada con decenas de centros de buceo, y los fondos combinan praderas de posidonia, arrecifes rocosos y una fauna mediterránea espectacular. Pero no todos los puntos son iguales, y elegir bien marca la diferencia entre una inmersión épica y una frustrante.</p>
+
+<p>He buceado en la Costa Brava más de trescientas veces a lo largo de los últimos doce años, desde el Cap de Creus hasta Blanes. Lo que te cuento aquí no es teoría sacada de una guía turística: es experiencia directa de instructor.</p>
+
+<h2>Las Islas Medes (L'Estartit): la joya de la corona</h2>
+
+<p>Si hay un punto de buceo que define la Costa Brava a nivel internacional, son las Islas Medes. Declaradas reserva marina en 1990, el ecosistema se ha recuperado de forma espectacular. Hoy puedes ver meros de 50 kg, langostas en plena luz del día y bancos de sargos y dentones que ya no ves en otros puntos del litoral catalán.</p>
+
+<p>Para principiantes, los mejores puntos son el Tascó Gros (profundidad máxima 18 metros, visibilidad habitual de 15-20 metros) y la Cova de la Vaca (cueva somera accesible con Open Water). El único inconveniente es logístico: el acceso está regulado y debes reservar con un centro autorizado de L'Estartit.</p>
+
+<h2>Cap de Creus: aguas más saladas, fauna más salvaje</h2>
+
+<p>El Cap de Creus, en el extremo noreste de Cataluña, es un parque natural tanto terrestre como marino. Las condiciones son más exigentes que en las Medes: puede haber corriente de la Tramontana, la visibilidad es irregular y el agua es más fría en profundidad.</p>
+
+<p>Pero hay algo especial en el Cap de Creus que los buceadores con experiencia aprecian: la salinidad del agua. El Cap de Creus alcanza salinidades de hasta 38‰, claramente por encima del Mediterráneo medio (37‰). Esa diferencia tiene un impacto real en la flotabilidad: el agua más salada empuja más hacia arriba. Si normalmente buceas con 8 kg en el Mediterráneo catalán, en el Cap de Creus podrías necesitar 8,5 o incluso 9 kg. Nuestra calculadora tiene en cuenta exactamente esta variación de salinidad para darte el punto de partida preciso.</p>
+
+<p>Los mejores puntos para principiantes son la Cala Montgó y la zona de Cap Norfeu, con fondos de entre 8 y 15 metros y corrientes habitualmente suaves.</p>
+
+<h2>Palamós: accesible y con mucha fauna</h2>
+
+<p>Palamós tiene varios puntos de buceo excelentes para principiantes que no requieren barco. La zona de La Foradada (acceso desde tierra) y los arrecifes entre Palamós y Cala del Pi tienen fondos de 8-15 metros con paredones cubiertos de algas rojas, pulpos en abundancia y morenas en sus madrigueras. La visibilidad media es de 10-15 metros.</p>
+
+<h2>Cadaqués: el encanto bajo el agua</h2>
+
+<p>Cadaqués tiene un encanto especial. Los fondos alrededor del pueblo combinan roca, arena y posidonia en un escenario fotogénico. El punto de La Creu, a unos 5 minutos en zodiac desde el pueblo, tiene un arco natural a 12 metros de profundidad que es una de las fotos más vistas del buceo catalán.</p>
+
+<h2>Roses: la Bahía y el Cabo Norfeu</h2>
+
+<p>La bahía de Roses es perfecta para inmersiones en aguas someras (5-12 metros) cuando hay viento del norte y las zonas más expuestas están cerradas. El Cabo Norfeu, en el lado sur de la bahía, tiene paredes cubiertas de corales rojos a partir de 18 metros, accesibles para buceadores con el Open Water consolidado.</p>
+
+<h2>Begur: Aiguafreda y Sa Tuna</h2>
+
+<p>Las calas alrededor de Begur tienen la ventaja de ser pequeñas y estar protegidas del viento del norte. Aiguafreda es probablemente la inmersión más tranquila de toda la Costa Brava: aguas calmas, sin barcos, fondo de roca y posidonia, profundidad máxima de 12 metros. Perfecta para el primer día de buceo de la temporada.</p>
+
+<h2>Blanes: el sur de la Costa Brava</h2>
+
+<p>Blanes marca el límite sur de la Costa Brava. La zona del Cap de Bou tiene fondos interesantes a poca profundidad. Menos explotada turísticamente que las Medes o Cadaqués, es una opción tranquila para inmersiones sin aglomeraciones.</p>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Punto</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Profundidad</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Visibilidad media</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Nivel mínimo</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Acceso</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Islas Medes (Tascó Gros)</td>
+      <td class="border border-gray-300 p-2">5-18 m</td>
+      <td class="border border-gray-300 p-2">15-20 m</td>
+      <td class="border border-gray-300 p-2">Open Water</td>
+      <td class="border border-gray-300 p-2">Barco (reserva)</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Cap de Creus (Cala Montgó)</td>
+      <td class="border border-gray-300 p-2">8-15 m</td>
+      <td class="border border-gray-300 p-2">10-18 m</td>
+      <td class="border border-gray-300 p-2">Open Water</td>
+      <td class="border border-gray-300 p-2">Tierra o barco</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Palamós (La Foradada)</td>
+      <td class="border border-gray-300 p-2">8-15 m</td>
+      <td class="border border-gray-300 p-2">10-15 m</td>
+      <td class="border border-gray-300 p-2">Open Water</td>
+      <td class="border border-gray-300 p-2">Tierra</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Cadaqués (La Creu)</td>
+      <td class="border border-gray-300 p-2">8-14 m</td>
+      <td class="border border-gray-300 p-2">10-20 m</td>
+      <td class="border border-gray-300 p-2">Open Water</td>
+      <td class="border border-gray-300 p-2">Barco pequeño</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Begur (Aiguafreda)</td>
+      <td class="border border-gray-300 p-2">5-12 m</td>
+      <td class="border border-gray-300 p-2">8-15 m</td>
+      <td class="border border-gray-300 p-2">Open Water</td>
+      <td class="border border-gray-300 p-2">Tierra</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Cuándo es la mejor época para bucear en la Costa Brava?</h3>
+<p>De mayo a octubre es la temporada ideal. En verano la visibilidad puede llegar a 20-25 metros y el agua alcanza los 24-26°C en superficie. En septiembre y octubre el agua sigue templada pero hay menos barcos y turistas, lo que muchos buceadores prefieren.</p>
+
+<h3>¿Necesito permiso para bucear en las Islas Medes?</h3>
+<p>Sí. Las Islas Medes son reserva marina y el acceso está regulado. Debes reservar tu plaza con antelación a través de los centros de buceo autorizados de L'Estartit. El número de buceadores diarios está limitado para proteger el ecosistema.</p>
+
+<h3>¿Qué traje necesito para bucear en la Costa Brava en verano?</h3>
+<p>En verano (julio-agosto), con agua a 23-26°C en superficie y 17-19°C a 20 metros, un traje de 5mm es suficiente para la mayoría. Si eres friolero o haces inmersiones largas a más profundidad, un 7mm es más cómodo.</p>
+
+<h3>¿Por qué el Cap de Creus tiene mayor salinidad que el resto de la Costa Brava?</h3>
+<p>El Cap de Creus es el punto más expuesto al Mediterráneo abierto en el extremo noreste catalán. Las corrientes que vienen del norte concentran sal y hay menos aporte de agua dulce de ríos. La salinidad puede alcanzar el 38‰, frente al 37‰ habitual del Mediterráneo catalán.</p>`,
   },
 ]
