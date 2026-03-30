@@ -499,8 +499,8 @@ export const articles = [
     slug: 'cinturon-plomos-buceo',
     title: 'Tipos de Cinturones de Plomos y Sistemas de Lastre en Buceo',
     excerpt: 'Cinturón clásico, lastre integrado en BCD o trim weights: cuál elegir según tu estilo de buceo. Comparativa de sistemas con modelos disponibles en España y consejos de distribución.',
-    image: 'https://images.unsplash.com/photo-1590159983013-d4ba5c2bec40?w=1200&h=630&fit=crop&q=80',
-    imageAlt: 'Equipo de buceo con cinturón de plomos y BCD',
+    image: '/images/cinturon-plomos-buceo.png',
+    imageAlt: 'Buceadora mostrando el cinturón de plomos integrado en el BCD bajo el agua',
     publishedAt: '2026-03-15',
     faq: [
       { q: '¿Es obligatorio el cinturón de liberación rápida en España?', a: 'La FEDAS y la normativa de buceo deportivo en España recomiendan (y en algunos centros exigen) el sistema de liberación rápida para lastres superiores a 6-8 kg. En inmersiones técnicas o a mayor profundidad, es prácticamente obligatorio por seguridad.' },
