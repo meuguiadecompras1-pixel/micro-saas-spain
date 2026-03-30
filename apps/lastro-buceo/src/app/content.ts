@@ -948,4 +948,924 @@ export const articles = [
 <h3>¿Por qué el Cap de Creus tiene mayor salinidad que el resto de la Costa Brava?</h3>
 <p>El Cap de Creus es el punto más expuesto al Mediterráneo abierto en el extremo noreste catalán. Las corrientes que vienen del norte concentran sal y hay menos aporte de agua dulce de ríos. La salinidad puede alcanzar el 38‰, frente al 37‰ habitual del Mediterráneo catalán.</p>`,
   },
+  {
+    slug: 'pecios-naufragios-buceo-espana',
+    title: 'Top 5 Pecios (Naufragios) en España donde Necesitas Flotabilidad Perfecta',
+    excerpt: 'Los 5 mejores pecios de España para bucear: profundidades, historia y por qué un lastrado incorrecto destruye la visibilidad y daña el patrimonio subacuático.',
+    image: 'https://images.unsplash.com/photo-1551244072-5d12893278bc?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Buceador explorando un pecio submarino en España',
+    publishedAt: '2026-03-24',
+    faq: [
+      { q: '¿Qué nivel de certificación necesito para bucear en pecios en España?', a: 'Depende de la profundidad. Para pecios entre 10 y 18 metros, el Open Water es suficiente. Para pecios a 30-40 metros necesitas Advanced Open Water como mínimo. Para penetración interior se recomienda el curso específico de naufragio de PADI o FEDAS.' },
+      { q: '¿Por qué el sedimento de un pecio es tan problemático?', a: 'Los pecios acumulan décadas de sedimento fino en sus interiores. Un buceador que roza el fondo con las aletas levanta una nube de partículas que puede tardar horas en asentarse, destruyendo la visibilidad para todos los buceadores que vengan después.' },
+      { q: '¿Cuáles son los pecios más accesibles de España para principiantes?', a: 'El Don Pedro en Ibiza (18 metros) es el más accesible para Advanced. En el Mediterráneo, el pecio del Bou Ferrer cerca de Villajoyosa (Alicante) tiene zonas a 20 metros. Ambos requieren reserva con operador autorizado.' },
+      { q: '¿Está permitido coger objetos de los pecios en España?', a: 'No. Los pecios en aguas españolas están protegidos por la Ley de Patrimonio Histórico Español. Retirar cualquier objeto puede conllevar sanciones graves. Muchos pecios son además yacimientos arqueológicos catalogados.' },
+    ],
+    content: `<p>Bucear en un pecio es una de las experiencias más impactantes que puede vivir un buceador. No hay nada como descender sobre una estructura de acero o madera que en su día surcó la superficie y ahora pertenece al mundo silencioso de las profundidades. España tiene algunos pecios extraordinarios, desde cargueros de la Guerra Civil hasta barcos hundidos de forma controlada como arrecifes artificiales. Pero hay algo que diferencia el buceo en pecio del buceo en arrecife: el sedimento.</p>
+
+<p>En un arrecife rocoso, si rozas el fondo con las aletas simplemente tocas roca. En un pecio, levantas una nube de sedimento que puede convertir una visibilidad de 15 metros en cero metros en cuestión de segundos. <strong>Bucear en un pecio con lastre incorrecto levanta sedimento y destruye la visibilidad para todos</strong>. Calcula tu peso exacto antes de meterte: es el gesto más respetuoso que puedes hacer con el lugar y con los buceadores que vendrán después.</p>
+
+<h2>Por qué la flotabilidad perfecta es crítica en pecios</h2>
+
+<p>El interior de un pecio es un entorno de visibilidad cero potencial. El sedimento acumulado durante años es extraordinariamente fino y sensible. Las consecuencias de un mal lastrado son mucho más graves aquí que en un arrecife:</p>
+
+<ul>
+  <li><strong>Pérdida de visibilidad:</strong> El sedimento en suspensión puede hacer imposible ver al compañero a medio metro de distancia.</li>
+  <li><strong>Desorientación:</strong> Sin visibilidad y dentro de una estructura metálica, la desorientación es rápida y el pánico puede seguir.</li>
+  <li><strong>Daño al patrimonio:</strong> Los pecios son patrimonio subacuático protegido. Un buceador sobre-lastrado que arrastra por el interior causa daños irreversibles.</li>
+  <li><strong>Riesgo de atrapamiento:</strong> Una postura vertical por sobre-lastrado es especialmente peligrosa en pasillos estrechos o en puertas de mamparos.</li>
+</ul>
+
+<h2>Los 5 mejores pecios de España</h2>
+
+<h3>1. Don Pedro (Ibiza, Baleares)</h3>
+<p>El Don Pedro es el pecio más famoso de España y uno de los más visitados del Mediterráneo. Un transbordador de pasajeros de 110 metros de eslora hundido en 2007 de forma controlada para crear un arrecife artificial. Está a 18-47 metros de profundidad. La cubierta principal a 18 metros es accesible para Advanced; el fondo a 47 metros solo para buceadores técnicos.</p>
+
+<h3>2. Ciudad de Ibiza (Costa Dorada, Tarragona)</h3>
+<p>Un pequeño carguero hundido frente a la costa de Tarragona, a 28 metros de profundidad. Está cubierto de corales y esponjas, con fauna asociada espectacular: meros, morenas, pargos. El fondo de arena alrededor tiene rayas eléctricas establecidas de forma permanente. El interior del casco es accesible pero exige flotabilidad perfecta.</p>
+
+<h3>3. Bou Ferrer (Villajoyosa, Alicante)</h3>
+<p>Un hallazgo arqueológico extraordinario: un pecio romano del siglo I d.C. descubierto en 2010, con la carga original de ánforas todavía in situ. Está a 20-28 metros. La normativa de acceso es estricta — solo a través de operadores autorizados — precisamente para proteger el yacimiento del daño que causaría un buceador mal lastrado.</p>
+
+<h3>4. Elcano (Ferrol, Galicia)</h3>
+<p>Un destructor de la Armada española hundido en los años 40 en la Ría de Ferrol, a 22-28 metros. El Atlántico cambia completamente las condiciones: corrientes más fuertes, visibilidad más variable y agua más fría. La flotabilidad perfecta es aún más crítica porque las corrientes pueden empujarte contra la estructura si no tienes control absoluto de tu posición.</p>
+
+<h3>5. Corveta Santa Margarita (Menorca)</h3>
+<p>Una corbeta militar del siglo XIX hundida en el puerto de Maó, a 16-22 metros. Es uno de los pocos pecios históricos de madera bien conservados en el Mediterráneo español. El sedimento que cubre los restos de madera es extraordinariamente delicado — cualquier perturbación puede dañar estructuras que han sobrevivido dos siglos.</p>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Pecio</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Profundidad</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Nivel mínimo</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Visibilidad media</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Riesgo sedimento</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Don Pedro (Ibiza)</td>
+      <td class="border border-gray-300 p-2">18-47 m</td>
+      <td class="border border-gray-300 p-2">Advanced</td>
+      <td class="border border-gray-300 p-2">15-25 m</td>
+      <td class="border border-gray-300 p-2">Media</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Ciudad de Ibiza (Tarragona)</td>
+      <td class="border border-gray-300 p-2">18-28 m</td>
+      <td class="border border-gray-300 p-2">Advanced</td>
+      <td class="border border-gray-300 p-2">8-15 m</td>
+      <td class="border border-gray-300 p-2">Alta</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Bou Ferrer (Alicante)</td>
+      <td class="border border-gray-300 p-2">20-28 m</td>
+      <td class="border border-gray-300 p-2">Advanced</td>
+      <td class="border border-gray-300 p-2">10-20 m</td>
+      <td class="border border-gray-300 p-2">Muy alta</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Elcano (Ferrol)</td>
+      <td class="border border-gray-300 p-2">22-28 m</td>
+      <td class="border border-gray-300 p-2">Advanced</td>
+      <td class="border border-gray-300 p-2">5-12 m</td>
+      <td class="border border-gray-300 p-2">Alta</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Sta. Margarita (Menorca)</td>
+      <td class="border border-gray-300 p-2">16-22 m</td>
+      <td class="border border-gray-300 p-2">Advanced</td>
+      <td class="border border-gray-300 p-2">8-15 m</td>
+      <td class="border border-gray-300 p-2">Muy alta</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Qué nivel de certificación necesito para bucear en pecios en España?</h3>
+<p>Depende de la profundidad. Para pecios entre 10 y 18 metros, el Open Water es suficiente. Para pecios a 30-40 metros necesitas Advanced Open Water como mínimo. Para penetración interior se recomienda el curso específico de naufragio de PADI o FEDAS.</p>
+
+<h3>¿Por qué el sedimento de un pecio es tan problemático?</h3>
+<p>Los pecios acumulan décadas de sedimento fino en sus interiores. Un buceador que roza el fondo con las aletas levanta una nube de partículas que puede tardar horas en asentarse, destruyendo la visibilidad para todos los buceadores que vengan después.</p>
+
+<h3>¿Cuáles son los pecios más accesibles de España para principiantes?</h3>
+<p>El Don Pedro en Ibiza (18 metros) es el más accesible para Advanced. En el Mediterráneo, el pecio del Bou Ferrer cerca de Villajoyosa (Alicante) tiene zonas a 20 metros. Ambos requieren reserva con operador autorizado.</p>
+
+<h3>¿Está permitido coger objetos de los pecios en España?</h3>
+<p>No. Los pecios en aguas españolas están protegidos por la Ley de Patrimonio Histórico Español. Retirar cualquier objeto puede conllevar sanciones graves. Muchos pecios son además yacimientos arqueológicos catalogados.</p>`,
+  },
+  {
+    slug: 'bucear-espana-invierno-destinos',
+    title: 'Dónde Bucear en España en Invierno: Top Destinos y Qué Traje Llevar',
+    excerpt: 'Guía de buceo invernal en España: Canarias, Murcia, Almería y Costa Brava. Temperaturas del agua, trajes recomendados y cómo recalcular el lastrado al cambiar de neopreno.',
+    image: 'https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Buceo en aguas frías en invierno en España',
+    publishedAt: '2026-03-25',
+    faq: [
+      { q: '¿Se puede bucear en el Mediterráneo en invierno?', a: 'Sí, aunque las condiciones dependen de la zona. En Murcia y Almería, el agua raramente baja de 14°C en invierno. En la Costa Brava puede llegar a 11-12°C en febrero. Con el traje adecuado (7mm o seco), el buceo invernal es perfectamente viable y tiene sus ventajas: menos turistas, mejor visibilidad y fauna diferente.' },
+      { q: '¿Cuánto lastre adicional necesito con un traje de 7mm respecto a uno de 5mm?', a: 'La diferencia habitual es de 2-4 kg, dependiendo de tu constitución y del fabricante del traje. Un traje de 7mm de Cressi o Mares en talla M añade aproximadamente 3 kg de flotabilidad positiva respecto a un traje de 5mm. Siempre haz el test de flotabilidad cuando cambies de traje.' },
+      { q: '¿Qué es mejor en invierno, traje seco o húmedo de 7mm?', a: 'Para inmersiones en agua por debajo de 12-13°C, el traje seco ofrece mucho más confort térmico. El 7mm húmedo es suficiente entre 12 y 16°C si no buceas más de 45-50 minutos. El traje seco requiere un lastre completamente diferente: suele añadir entre 4 y 8 kg de flotabilidad adicional.' },
+      { q: '¿En qué zonas de España hay buceo todo el año?', a: 'Las Islas Canarias permiten bucear cómodamente todo el año (agua entre 19 y 24°C). En la península, Murcia y Almería tienen la temporada más larga, de marzo a noviembre cómodamente.' },
+    ],
+    content: `<p>El buceo tiene fama de ser un deporte de verano, y en España eso se traduce en que la mayoría de los buceadores guardan el equipo en octubre y no lo vuelven a sacar hasta mayo. Es un error enorme. El buceo invernal en España tiene características únicas: menos personas, mejor visibilidad en muchos puntos, y una fauna diferente que en verano no se ve. El problema es que requiere planificación y, sobre todo, un ajuste correcto del equipo.</p>
+
+<h2>Las temperaturas del agua en invierno por zonas</h2>
+
+<p>España tiene una diversidad climática notable, y eso se refleja en las temperaturas del agua en invierno. No es lo mismo bucear en Lanzarote en enero que en la Costa Brava en febrero:</p>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Zona</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Temperatura enero (sup.)</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Temperatura enero (20 m)</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Traje recomendado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Islas Canarias</td>
+      <td class="border border-gray-300 p-2">19-21°C</td>
+      <td class="border border-gray-300 p-2">18-19°C</td>
+      <td class="border border-gray-300 p-2">5mm</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Murcia / Almería</td>
+      <td class="border border-gray-300 p-2">14-16°C</td>
+      <td class="border border-gray-300 p-2">13-14°C</td>
+      <td class="border border-gray-300 p-2">7mm</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Valencia / Alicante</td>
+      <td class="border border-gray-300 p-2">13-15°C</td>
+      <td class="border border-gray-300 p-2">12-13°C</td>
+      <td class="border border-gray-300 p-2">7mm</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Catalunya (Costa Brava)</td>
+      <td class="border border-gray-300 p-2">11-13°C</td>
+      <td class="border border-gray-300 p-2">11-12°C</td>
+      <td class="border border-gray-300 p-2">7mm o seco</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Galicia / País Vasco</td>
+      <td class="border border-gray-300 p-2">11-13°C</td>
+      <td class="border border-gray-300 p-2">11-12°C</td>
+      <td class="border border-gray-300 p-2">7mm o seco</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>El impacto del traje de invierno en el lastrado</h2>
+
+<p>Cambiar de un traje de 5mm a uno de 7mm no es solo cuestión de calor. El neopreno de mayor grosor contiene más gas en sus celdas y flota considerablemente más. Un traje de 7mm puede añadir entre 3 y 5 kg de flotabilidad positiva respecto a un traje de 5mm de la misma talla y fabricante.</p>
+
+<p>Un traje de 7mm de invierno puede añadir 6-8 kg de flotabilidad positiva respecto a bucear sin traje. Si tu lastrado en verano con 5mm es de 8 kg, en invierno con 7mm podrías necesitar 10-12 kg. Y si cambias a traje seco, el ajuste es aún mayor. <strong>Recalcula siempre tu lastrado antes de cada temporada, especialmente cuando cambias de traje.</strong> Nuestra calculadora de lastrado te permite introducir el grosor del traje y te da el ajuste estimado de forma inmediata.</p>
+
+<p>La lógica es simple: el neopreno es básicamente caucho con gas atrapado. Más grosor, más gas, más flotabilidad positiva. Cuando el neopreno envejece (más de 5-6 años de uso), las celdas de gas se comprimen y el traje flota menos. Así que un traje de 7mm nuevo puede requerir más lastre que uno de 7mm con tres temporadas de uso intensivo.</p>
+
+<h2>Los mejores destinos de buceo invernal en España</h2>
+
+<h3>Islas Canarias: el destino invernal por excelencia</h3>
+<p>Lanzarote, Fuerteventura y Gran Canaria tienen la temperatura más alta en invierno y una oferta de buceo extraordinaria. El Atlántico canario en enero tiene condiciones que el Mediterráneo solo tiene en verano: agua a 20°C, visibilidades de 15-20 metros y fauna diferente (mantarrayas, tortugas, tiburones ángel). El equipo de buceo en Canarias en invierno es el mismo que en el Mediterráneo en verano: traje de 5mm y cantidad de lastre parecida.</p>
+
+<h3>Murcia y Almería: el Mediterráneo más cálido en invierno</h3>
+<p>La zona del Mar Menor, el Cabo de Palos y la reserva marina de las Islas Hormigas tienen las temperaturas más cálidas del Mediterráneo peninsular en invierno. El Cabo de Gata (Almería), parque natural marino, tiene visibilidades excelentes en invierno y la fauna invernal (pulpos, calamares, sepias en celo) es diferente a la de verano.</p>
+
+<h3>Baleares fuera de temporada</h3>
+<p>Mallorca e Ibiza tienen centros de buceo que operan todo el año, aunque la oferta se reduce en invierno. La ventaja es clara: los pecios y arrecifes más populares del verano están completamente vacíos. Puedes bucear en el Don Pedro de Ibiza en enero con el pecio para ti solo.</p>
+
+<h3>Costa Brava invernal: para los que no le tienen miedo al frío</h3>
+<p>Con agua a 11-12°C y traje seco, la Costa Brava invernal es un entorno especial. La visibilidad puede ser extraordinaria (hasta 20-25 metros en los mejores días) y la fauna cambia: aparecen medusas diferentes, los pulpos están más activos y los fondos tienen una luz diferente. Eso sí, el equipo debe ser correcto y el lastrado debe recalcularse completamente respecto al verano.</p>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Se puede bucear en el Mediterráneo en invierno?</h3>
+<p>Sí, aunque las condiciones dependen de la zona. En Murcia y Almería, el agua raramente baja de 14°C en invierno. En la Costa Brava puede llegar a 11-12°C en febrero. Con el traje adecuado (7mm o seco), el buceo invernal es perfectamente viable y tiene sus ventajas: menos turistas, mejor visibilidad y fauna diferente.</p>
+
+<h3>¿Cuánto lastre adicional necesito con un traje de 7mm respecto a uno de 5mm?</h3>
+<p>La diferencia habitual es de 2-4 kg, dependiendo de tu constitución y del fabricante del traje. Un traje de 7mm de Cressi o Mares en talla M añade aproximadamente 3 kg de flotabilidad positiva respecto a un traje de 5mm. Siempre haz el test de flotabilidad cuando cambies de traje.</p>
+
+<h3>¿Qué es mejor en invierno, traje seco o húmedo de 7mm?</h3>
+<p>Para inmersiones en agua por debajo de 12-13°C, el traje seco ofrece mucho más confort térmico. El 7mm húmedo es suficiente entre 12 y 16°C si no buceas más de 45-50 minutos. El traje seco requiere un lastre completamente diferente: suele añadir entre 4 y 8 kg de flotabilidad adicional.</p>
+
+<h3>¿En qué zonas de España hay buceo todo el año?</h3>
+<p>Las Islas Canarias permiten bucear cómodamente todo el año (agua entre 19 y 24°C). En la península, Murcia y Almería tienen la temporada más larga, de marzo a noviembre cómodamente.</p>`,
+  },
+  {
+    slug: 'reservas-marinas-espana-buceo',
+    title: 'Top 10 Reservas Marinas de España para Bucear: Normativas y Equipo',
+    excerpt: 'Las 10 mejores reservas marinas de España para bucear, con normativas de acceso, fauna protegida y por qué el lastrado correcto es imprescindible para no llevarte una sanción.',
+    image: 'https://images.unsplash.com/photo-1546026423-cc4642628d2b?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Reserva marina con peces y coral en España',
+    publishedAt: '2026-03-26',
+    faq: [
+      { q: '¿Se necesita permiso especial para bucear en las reservas marinas de España?', a: 'Sí, la mayoría de las reservas marinas en España requieren autorización previa. Algunas son gestionadas por el Ministerio de Agricultura, Pesca y Alimentación, y otras por las comunidades autónomas. El proceso varía: unas permiten el acceso libre con notificación previa, otras tienen cupos diarios estrictos y requieren reserva anticipada.' },
+      { q: '¿Qué sanciones puede conllevar el buceo ilegal en una reserva marina?', a: 'Las infracciones en reservas marinas se sancionan bajo la Ley de Pesca Marítima. Las multas van desde unos cientos de euros para infracciones leves hasta varios miles para infracciones graves. El daño al fondo marino (por ejemplo, contacto con coral) puede considerarse infracción grave independientemente de si fue accidental.' },
+      { q: '¿Puedo pescar en una reserva marina mientras buceo?', a: 'En general, no. Las reservas marinas integrales prohíben cualquier actividad extractiva, incluyendo la pesca submarina. Las reservas parciales pueden permitir algunos tipos de pesca en zonas específicas, pero el buceo recreativo está generalmente separado de las zonas de pesca.' },
+      { q: '¿Por qué el lastrado incorrecto es especialmente problemático en reservas marinas?', a: 'Las reservas marinas tienen ecosistemas especialmente frágiles, con corales, gorgonias y posidonia que pueden tardar décadas en recuperarse de un daño. Un buceador sobre-lastrado que toca el fondo, aunque sea accidentalmente, puede causar un daño que constituye infracción. Además, el contacto con el fondo en una reserva puede ser observado y denunciado por los guardas marinos.' },
+    ],
+    content: `<p>Las reservas marinas de España son, sin ninguna duda, los mejores lugares para bucear en el país. No lo digo por exageración turística: los datos son contundentes. En las Islas Medes, la biomasa de peces es entre 10 y 20 veces superior a zonas no protegidas adyacentes. En la reserva del Cabo de Palos, la abundancia de meros y dentones es espectacular comparada con cualquier arrecife no protegido del Mediterráneo. La protección funciona, y el resultado es una experiencia de buceo incomparable.</p>
+
+<p>Pero las reservas marinas tienen normas, y esas normas existen por una razón. Un buceador que entra en una reserva con el equipo mal configurado no solo pone en riesgo su seguridad: puede causar daños al ecosistema que constituyen infracción legal. <strong>Las reservas marinas exigen equipo calibrado y sin contacto con el fondo. Un lastrado incorrecto puede causarte una sanción además de un accidente.</strong></p>
+
+<h2>Las 10 reservas marinas más importantes de España para buceadores</h2>
+
+<h3>1. Islas Medes (Girona, Catalunya)</h3>
+<p>La más famosa. Reserva desde 1990, con una recuperación espectacular de la fauna. Requiere reserva previa a través de operadores autorizados. Cupo diario limitado. Fauna destacada: meros gigantes, langostas, corales rojos.</p>
+
+<h3>2. Cabo de Palos e Islas Hormigas (Murcia)</h3>
+<p>Una de las reservas marinas mejor gestionadas de España. El Bajo de la Barra, a 25-40 metros, es uno de los mejores puntos de buceo del Mediterráneo español con grandes dentones y meros. Gestionada por la Región de Murcia.</p>
+
+<h3>3. Cabo de Gata-Níjar (Almería)</h3>
+<p>El parque natural marino más grande del Mediterráneo occidental español. Agua muy clara (visibilidades de hasta 25-30 metros en los mejores días), fondos volcánicos únicos y una fauna variada. Acceso relativamente libre pero con zonas de reserva integral.</p>
+
+<h3>4. Islas Columbretes (Castelló)</h3>
+<p>Un archipiélago volcánico a 50 km de la costa. Solo accesible en barco. Las inmersiones requieren autorización previa. La fauna es excepcional: tortugas, mantas, atunes. Una de las reservas más vírgenes del Mediterráneo español.</p>
+
+<h3>5. Reserva Marina de Alborán (Almería/Málaga)</h3>
+<p>La isla de Alborán, en el estrecho, tiene aguas con influencia atlántica y mediterránea. La mezcla de corrientes crea un ecosistema único. Las visibilidades pueden ser variables por las corrientes, lo que hace aún más crítico un buen control de flotabilidad.</p>
+
+<h3>6. Isla de Tabarca (Alicante)</h3>
+<p>La primera reserva marina de España, establecida en 1986. Accesible desde Santa Pola y Alicante en barcos regulares. Fondos de posidonia con buena densidad de peces. Ideal para principiantes por la profundidad (5-18 metros).</p>
+
+<h3>7. Parque Nacional de Cabrera (Baleares)</h3>
+<p>Archipiélago protegido al sur de Mallorca. Acceso muy controlado y limitado. Las inmersiones en el interior del parque requieren autorización específica. Fondos extraordinarios con gorgonias, corales y fauna pelágica.</p>
+
+<h3>8. Reserva Marina de las Islas Chafarinas (Melilla)</h3>
+<p>Tres islas pequeñas frente a las costas de Marruecos. Gestionadas por el Estado español. Acceso muy limitado, pero los que logran acceder encuentran fondos casi vírgenes con fauna excepcional.</p>
+
+<h3>9. Reservas del Cantábrico (Asturias, Galicia)</h3>
+<p>Las reservas del Atlántico norte español son diferentes: agua más fría, visibilidad más variable, fauna atlántica. El buceo aquí requiere traje seco y un lastrado completamente diferente al del Mediterráneo.</p>
+
+<h3>10. Teno-Rasca (Tenerife, Canarias)</h3>
+<p>La reserva más importante de Canarias conecta dos puntos extremos de la isla. Corrientes oceánicas, fauna atlántica (mantarrayas, tortugas, tiburones ángel) y condiciones que pueden ser exigentes para buceadores sin experiencia en corriente.</p>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Reserva</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Comunidad</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Acceso</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Nivel recomendado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Islas Medes</td>
+      <td class="border border-gray-300 p-2">Catalunya</td>
+      <td class="border border-gray-300 p-2">Reserva previa</td>
+      <td class="border border-gray-300 p-2">Open Water</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Cabo de Palos</td>
+      <td class="border border-gray-300 p-2">Murcia</td>
+      <td class="border border-gray-300 p-2">Operador autorizado</td>
+      <td class="border border-gray-300 p-2">Advanced</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Cabo de Gata</td>
+      <td class="border border-gray-300 p-2">Andalucía</td>
+      <td class="border border-gray-300 p-2">Libre (zonas) / autorización (ZR)</td>
+      <td class="border border-gray-300 p-2">Open Water</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Columbretes</td>
+      <td class="border border-gray-300 p-2">C. Valenciana</td>
+      <td class="border border-gray-300 p-2">Autorización previa</td>
+      <td class="border border-gray-300 p-2">Advanced</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Cabrera</td>
+      <td class="border border-gray-300 p-2">Baleares</td>
+      <td class="border border-gray-300 p-2">Muy controlado</td>
+      <td class="border border-gray-300 p-2">Advanced</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Se necesita permiso especial para bucear en las reservas marinas de España?</h3>
+<p>Sí, la mayoría de las reservas marinas en España requieren autorización previa. Algunas son gestionadas por el Ministerio de Agricultura, Pesca y Alimentación, y otras por las comunidades autónomas. El proceso varía: unas permiten el acceso libre con notificación previa, otras tienen cupos diarios estrictos y requieren reserva anticipada.</p>
+
+<h3>¿Qué sanciones puede conllevar el buceo ilegal en una reserva marina?</h3>
+<p>Las infracciones en reservas marinas se sancionan bajo la Ley de Pesca Marítima. Las multas van desde unos cientos de euros para infracciones leves hasta varios miles para infracciones graves. El daño al fondo marino puede considerarse infracción grave independientemente de si fue accidental.</p>
+
+<h3>¿Puedo pescar en una reserva marina mientras buceo?</h3>
+<p>En general, no. Las reservas marinas integrales prohíben cualquier actividad extractiva, incluyendo la pesca submarina. Las reservas parciales pueden permitir algunos tipos de pesca en zonas específicas, pero el buceo recreativo está generalmente separado de las zonas de pesca.</p>
+
+<h3>¿Por qué el lastrado incorrecto es especialmente problemático en reservas marinas?</h3>
+<p>Las reservas marinas tienen ecosistemas especialmente frágiles, con corales, gorgonias y posidonia que pueden tardar décadas en recuperarse de un daño. Un buceador sobre-lastrado que toca el fondo, aunque sea accidentalmente, puede causar un daño que constituye infracción. Además, el contacto con el fondo en una reserva puede ser observado y denunciado por los guardas marinos.</p>`,
+  },
+  {
+    slug: 'viajar-avion-equipo-buceo',
+    title: 'Viajar en Avión con Equipo de Buceo: Guía para No Pagar Exceso de Equipaje',
+    excerpt: 'Cómo volar con equipo de buceo sin pagar de más: qué llevar, qué alquilar en destino, aerolíneas más baratas para buceadores y cómo calcular el lastre que necesitarás.',
+    image: 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Avión en pista de aterrizaje para viaje de buceo',
+    publishedAt: '2026-03-27',
+    faq: [
+      { q: '¿Se puede llevar el lastre de buceo en el avión?', a: 'Sí, los plomos de buceo están permitidos en bodega. No tienen restricción especial por su composición (son plomo sólido, no explosivos ni líquidos). El único problema es el peso: los plomos son densos y añaden kilos rápidamente al equipaje. Si llevas más de 6-8 kg de lastre, puede ser más económico alquilarlo en destino.' },
+      { q: '¿Qué aerolíneas tienen mejor política para equipaje de buceo?', a: 'Iberia y Air Europa permiten maletas de buceo específicas con suplemento fijo. Ryanair y Vueling son más estrictas con el peso y no tienen tarifa especial para buceo. En vuelos intercontinentales (hacia el Caribe, Maldivas), la mayoría de aerolíneas permiten maletas de buceo como equipaje deportivo con suplemento de 30-50€ por trayecto.' },
+      { q: '¿Qué equipo de buceo es imprescindible llevar y qué se puede alquilar?', a: 'Lo que siempre recomiendo llevar: regulador (por seguridad y ajuste personal), ordenador de buceo, máscara y aletas. Lo que puedes alquilar sin problema en destinos turísticos: BCD, traje de neopreno, botellín y lastre. El lastre es especialmente conveniente alquilarlo por su peso.' },
+      { q: '¿Cómo sé cuánto lastre pedir prestado en el centro de buceo de destino?', a: 'Con nuestra calculadora de lastrado puedes calcular el peso exacto antes de salir de casa, usando los parámetros del destino (temperatura del agua, salinidad, traje que alquilarás). Así llegas al centro de buceo con un número concreto en mente, no dependes del criterio del staff local.' },
+    ],
+    content: `<p>El buceador viajero tiene un problema logístico que cualquier otra persona que viaje por deporte no tiene en la misma medida: el equipo de buceo es voluminoso, pesado y parcialmente incompatible con las restricciones de equipaje de las aerolíneas de bajo coste. Un BCD, un regulador, un ordenador, un traje de 5mm, las aletas y la máscara pueden sumar fácilmente 15-20 kg en la maleta, antes de añadir ni un solo plomo de lastre.</p>
+
+<p>Pero con una buena estrategia, es perfectamente posible volar con equipo de buceo sin pagar fortunas en exceso de equipaje. La clave está en saber qué llevar, qué alquilar y cómo planificar con antelación.</p>
+
+<h2>Qué llevar y qué alquilar: la decisión más importante</h2>
+
+<p>No todo el equipo de buceo tiene el mismo argumento para ser transportado o alquilado. Aquí el criterio es doble: seguridad y comodidad personal vs. facilidad de alquiler en destino.</p>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Equipo</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">¿Llevar o alquilar?</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Razón</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Peso aprox.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Regulador</td>
+      <td class="border border-gray-300 p-2">Llevar siempre</td>
+      <td class="border border-gray-300 p-2">Seguridad, ajuste personal</td>
+      <td class="border border-gray-300 p-2">1,5-2 kg</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Ordenador de buceo</td>
+      <td class="border border-gray-300 p-2">Llevar siempre</td>
+      <td class="border border-gray-300 p-2">Historial de inmersiones, confianza</td>
+      <td class="border border-gray-300 p-2">0,2-0,3 kg</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Máscara</td>
+      <td class="border border-gray-300 p-2">Llevar siempre</td>
+      <td class="border border-gray-300 p-2">Ajuste facial personal</td>
+      <td class="border border-gray-300 p-2">0,2-0,3 kg</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Aletas</td>
+      <td class="border border-gray-300 p-2">Llevar (si caben)</td>
+      <td class="border border-gray-300 p-2">Ajuste al pie, rendimiento</td>
+      <td class="border border-gray-300 p-2">1,5-2,5 kg</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">BCD</td>
+      <td class="border border-gray-300 p-2">Alquilar en destino</td>
+      <td class="border border-gray-300 p-2">Muy voluminoso y pesado</td>
+      <td class="border border-gray-300 p-2">3-5 kg</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Traje de neopreno</td>
+      <td class="border border-gray-300 p-2">Depende del grosor</td>
+      <td class="border border-gray-300 p-2">3mm: llevar. 7mm: alquilar</td>
+      <td class="border border-gray-300 p-2">1,5-5 kg</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Lastre</td>
+      <td class="border border-gray-300 p-2">Alquilar siempre</td>
+      <td class="border border-gray-300 p-2">Muy pesado, sin valor añadido personal</td>
+      <td class="border border-gray-300 p-2">6-12 kg</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>El lastre: el ítem que más pesa literalmente</h2>
+
+<p>El lastre es el elemento del equipo de buceo más fácil de alquilar en cualquier destino turístico con oferta de buceo. Todos los centros de buceo tienen lastre disponible, normalmente incluido en el precio de la inmersión o con un pequeño suplemento (1-2€ por inmersión).</p>
+
+<p>El problema es que si no sabes exactamente cuánto necesitas, dependes del criterio del staff local, que naturalmente tenderá a darte un poco de más "para asegurarse". Si alquilas el lastre en destino, necesitas saber exactamente cuánto pedir. Nuestra calculadora te da el número exacto antes de salir de casa, usando los parámetros del destino: temperatura del agua, salinidad y el traje que alquilarás. Así llegas al centro de buceo con un número concreto en mente.</p>
+
+<h2>Aerolíneas y políticas de equipaje de buceo</h2>
+
+<p>Las políticas varían y cambian frecuentemente. Estas son las más habituales en 2026 para vuelos desde España:</p>
+
+<ul>
+  <li><strong>Iberia / Iberia Express:</strong> Permiten una maleta de deportes de hasta 23 kg con suplemento. El equipo de buceo se puede declarar como deportivo.</li>
+  <li><strong>Vueling:</strong> Sin tarifa especial para buceo. Se aplican las tarifas estándar de equipaje facturado. Con la tarifa básica solo llevas equipaje de mano.</li>
+  <li><strong>Ryanair:</strong> La más estricta. Sin tarifa especial para deportes. Si superas el peso o el tamaño, los suplementos son elevados.</li>
+  <li><strong>Air Europa:</strong> Política similar a Iberia, con posibilidad de equipaje deportivo.</li>
+  <li><strong>Vuelos long-haul (Emirates, Qatar, Lufthansa):</strong> Generalmente más flexibles con el equipaje de buceo, especialmente en rutas hacia destinos de buceo populares (Maldivas, Mar Rojo, Caribe).</li>
+</ul>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Se puede llevar el lastre de buceo en el avión?</h3>
+<p>Sí, los plomos de buceo están permitidos en bodega. No tienen restricción especial por su composición (son plomo sólido, no explosivos ni líquidos). El único problema es el peso: los plomos son densos y añaden kilos rápidamente al equipaje. Si llevas más de 6-8 kg de lastre, puede ser más económico alquilarlo en destino.</p>
+
+<h3>¿Qué aerolíneas tienen mejor política para equipaje de buceo?</h3>
+<p>Iberia y Air Europa permiten maletas de buceo específicas con suplemento fijo. Ryanair y Vueling son más estrictas con el peso y no tienen tarifa especial para buceo. En vuelos intercontinentales, la mayoría de aerolíneas permiten maletas de buceo como equipaje deportivo con suplemento de 30-50€ por trayecto.</p>
+
+<h3>¿Qué equipo de buceo es imprescindible llevar y qué se puede alquilar?</h3>
+<p>Lo que siempre recomiendo llevar: regulador (por seguridad y ajuste personal), ordenador de buceo, máscara y aletas. Lo que puedes alquilar sin problema en destinos turísticos: BCD, traje de neopreno, botellín y lastre. El lastre es especialmente conveniente alquilarlo por su peso.</p>
+
+<h3>¿Cómo sé cuánto lastre pedir prestado en el centro de buceo de destino?</h3>
+<p>Con nuestra calculadora de lastrado puedes calcular el peso exacto antes de salir de casa, usando los parámetros del destino (temperatura del agua, salinidad, traje que alquilarás). Así llegas al centro de buceo con un número concreto en mente, no dependes del criterio del staff local.</p>`,
+  },
+  {
+    slug: 'bucear-islas-canarias-guia',
+    title: 'Bucear en las Islas Canarias: Guía Completa de Temperatura, Traje y Lastrado',
+    excerpt: 'Todo sobre el buceo en Canarias: temperaturas por isla, fauna atlántica, trajes recomendados y cómo el agua más cálida cambia el lastrado respecto al Mediterráneo.',
+    image: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Buceo en aguas tropicales de las Islas Canarias',
+    publishedAt: '2026-03-28',
+    faq: [
+      { q: '¿Cuáles son las mejores islas Canarias para bucear?', a: 'Lanzarote y Fuerteventura tienen la oferta más consolidada y la visibilidad más alta. Gran Canaria tiene la mayor variedad de puntos. Tenerife tiene los pecios más interesantes y la reserva Teno-Rasca. La Palma, El Hierro y La Gomera tienen buceo más virgen pero menos infraestructura.' },
+      { q: '¿Necesito diferente lastrado en Canarias respecto al Mediterráneo?', a: 'Sí, aunque la diferencia no es enorme. El agua del Atlántico canario tiene una salinidad similar al Mediterráneo (37-37,5‰), pero la temperatura es claramente más alta en invierno (19-21°C vs 12-14°C en el Mediterráneo). Eso significa que en Canarias en invierno usarás un traje más fino (5mm en lugar de 7mm), lo que reduce el lastre necesario en 2-4 kg.' },
+      { q: '¿Hay tiburones peligrosos en Canarias?', a: 'Las aguas canarias tienen tiburones ángel (Squatina squatina), que son bentónicos y no agresivos, y ocasionalmente tiburones azules pelágicos. Los ataques a buceadores son prácticamente inexistentes. El buceo con tiburón ángel es una de las experiencias más buscadas en Canarias.' },
+      { q: '¿Qué fauna única puedo ver en Canarias que no vea en el Mediterráneo?', a: 'Tortugas marinas (bastante comunes, especialmente en Tenerife y Gran Canaria), mantarrayas (manta birostris y mobula), tiburones ángel, morenas atlánticas más grandes que las mediterráneas, y fauna pelágica como atunes y listados. También hay barracudas atlánticas y peces loro.' },
+    ],
+    content: `<p>Las Islas Canarias son el mejor destino de buceo de España, y para muchos buceadores europeos son la puerta de entrada al buceo en aguas cálidas sin necesidad de volar doce horas. A cuatro horas de vuelo desde la península, las Canarias ofrecen algo que el Mediterráneo no puede dar en invierno: agua a 20°C, fauna atlántica única y visibilidades de 20-25 metros incluso en enero.</p>
+
+<p>Pero hay algo que muchos buceadores no tienen en cuenta cuando vienen del Mediterráneo: el cambio de condiciones afecta al equipo. No es solo fauna diferente o agua más caliente. <strong>Las Canarias tienen agua más cálida (22-24°C en verano, 19-21°C en invierno) que el Mediterráneo, lo que cambia el traje y por tanto el lastrado.</strong> Si no recalculas tu configuración, llegarás al barco con el lastre del Mediterráneo y pasarás la mitad de la inmersión luchando contra la flotabilidad. Nuestra calculadora te da la configuración exacta para Canarias antes de salir de casa.</p>
+
+<h2>Temperatura del agua y traje recomendado por isla y temporada</h2>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Temporada</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Temperatura superficie</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Temperatura 20m</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Traje recomendado</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Lastre vs Med.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Verano (jul-sep)</td>
+      <td class="border border-gray-300 p-2">23-25°C</td>
+      <td class="border border-gray-300 p-2">20-22°C</td>
+      <td class="border border-gray-300 p-2">3mm</td>
+      <td class="border border-gray-300 p-2">-2 a -4 kg</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Primavera/Otoño</td>
+      <td class="border border-gray-300 p-2">20-23°C</td>
+      <td class="border border-gray-300 p-2">18-20°C</td>
+      <td class="border border-gray-300 p-2">3-5mm</td>
+      <td class="border border-gray-300 p-2">-1 a -3 kg</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Invierno (dic-feb)</td>
+      <td class="border border-gray-300 p-2">19-21°C</td>
+      <td class="border border-gray-300 p-2">17-19°C</td>
+      <td class="border border-gray-300 p-2">5mm</td>
+      <td class="border border-gray-300 p-2">0 a -2 kg</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Las mejores islas para bucear y qué esperar</h2>
+
+<h3>Lanzarote: visibilidad extrema y fondos volcánicos</h3>
+<p>Lanzarote tiene la visibilidad más alta de Canarias, frecuentemente de 25-30 metros. Los fondos volcánicos crean estructuras únicas: tubos de lava, arcos, cuevas. El Museo Atlántico de Jason deCaires Taylor, con más de 300 esculturas a 12-14 metros, es uno de los puntos de buceo más singulares de Europa. La temperatura del agua es la más estable de Canarias.</p>
+
+<h3>Tenerife: pecios y mantarrayas</h3>
+<p>Tenerife tiene la mayor diversidad de buceo de Canarias. La reserva Teno-Rasca, el pecio del Valle del Atlántico, las manchas de mantarrayas en la zona de Punta Rasca y el buceo nocturno de Los Gigantes hacen de Tenerife la isla más completa para buceadores con experiencia.</p>
+
+<h3>Gran Canaria: buceo para todos los niveles</h3>
+<p>Gran Canaria tiene más de 50 puntos de buceo catalogados y una infraestructura de centros muy desarrollada, especialmente en el sur (Maspalomas, Puerto Rico). El El Cabrón, en Arinaga, está considerado uno de los mejores arrecifes de la Atlántico nororiental.</p>
+
+<h3>El Hierro: la isla más virgen</h3>
+<p>La Restinga, en el extremo sur de El Hierro, es el lugar más aislado y virgen para bucear en España. Reserva de la Biosfera, con acceso muy limitado por infraestructura turística. Las inmersiones aquí son una experiencia completamente diferente: fondos casi intactos, fauna abundante y pocas personas.</p>
+
+<h2>La diferencia de lastrado: por qué necesitas recalcular</h2>
+
+<p>La diferencia entre el Mediterráneo y Canarias en cuanto a lastrado no viene tanto de la salinidad (similar en ambos casos) como del traje. Si en el Mediterráneo en verano usas un traje de 5mm con 8 kg de lastre, en Canarias en verano usarás un traje de 3mm. Un traje de 3mm es 2-3 kg menos positivo que uno de 5mm. Así que en Canarias en verano podrías necesitar solo 5-6 kg.</p>
+
+<p>En invierno la diferencia se reduce: si en el Mediterráneo en enero usas un traje de 7mm con 12 kg, en Canarias en enero usarás un traje de 5mm, lo que es 3-4 kg menos positivo. Así que en Canarias en invierno podrías necesitar 8-9 kg. Siempre haz el test de flotabilidad la primera inmersión, pero tener un punto de partida correcto te ahorra tiempo y frustración.</p>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Cuáles son las mejores islas Canarias para bucear?</h3>
+<p>Lanzarote y Fuerteventura tienen la mayor visibilidad y la oferta más consolidada. Gran Canaria tiene la mayor variedad de puntos. Tenerife tiene los pecios más interesantes y la reserva Teno-Rasca. La Palma, El Hierro y La Gomera tienen buceo más virgen pero menos infraestructura.</p>
+
+<h3>¿Necesito diferente lastrado en Canarias respecto al Mediterráneo?</h3>
+<p>Sí, aunque la diferencia principal viene del traje, no de la salinidad. En Canarias usarás un traje más fino (3-5mm en lugar de 5-7mm), lo que reduce el lastre necesario en 2-4 kg. Calcula siempre la configuración específica para el destino.</p>
+
+<h3>¿Hay tiburones peligrosos en Canarias?</h3>
+<p>Las aguas canarias tienen tiburones ángel (Squatina squatina), que son bentónicos y no agresivos, y ocasionalmente tiburones azules pelágicos. Los ataques a buceadores son prácticamente inexistentes. El buceo con tiburón ángel es una de las experiencias más buscadas en Canarias.</p>
+
+<h3>¿Qué fauna única puedo ver en Canarias que no vea en el Mediterráneo?</h3>
+<p>Tortugas marinas (bastante comunes, especialmente en Tenerife y Gran Canaria), mantarrayas, tiburones ángel, morenas atlánticas más grandes que las mediterráneas, barracudas atlánticas y peces loro. También fauna pelágica como atunes y listados que raramente se ven en el Mediterráneo recreativo.</p>`,
+  },
+  {
+    slug: 'consumir-menos-aire-botella-buceo',
+    title: 'Cómo Consumir Menos Aire del Botellín: 12 Trucos Probados por Instructores',
+    excerpt: 'Consume hasta un 40% menos de aire en cada inmersión con estos 12 trucos de instructores: desde la respiración diafragmática hasta el lastrado perfecto. Guía práctica con ejercicios.',
+    image: 'https://images.unsplash.com/photo-1544551763-46a013bb7f44?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Buceador con burbujas bajo el agua ahorrando aire',
+    publishedAt: '2026-03-22',
+    faq: [
+      { q: '¿Por qué los principiantes consumen tanto más aire que los buceadores experimentados?', a: 'Principalmente por tres razones: más esfuerzo físico (por postura incorrecta y sobre-lastrado), más tensión muscular (el estrés dispara el consumo de oxígeno) y respiración incorrecta (superficial y rápida en lugar de profunda y lenta). Un buceador experimentado con flotabilidad neutra puede consumir hasta 3 veces menos aire que un principiante nervioso y sobre-lastrado.' },
+      { q: '¿Cómo puedo mejorar mi SAC rate (Surface Air Consumption)?', a: 'El SAC rate se mejora con práctica sistemática: inmersiones dedicadas a la flotabilidad en piscina, ejercicios de respiración diafragmática fuera del agua, y reducción progresiva del esfuerzo físico durante las inmersiones. Lo más efectivo es corregir el lastrado primero, porque eso elimina la causa raíz del alto consumo.' },
+      { q: '¿Qué tamaño de botellín recomiendan los instructores para principiantes?', a: 'La mayoría de cursos usan botellines de 12 litros de acero, que es el estándar en España. Para principiantes con alto consumo, algunos instructores prefieren el 15L para tener más margen. A medida que el consumo mejora, el 10L o incluso el 7L se vuelve suficiente para inmersiones de 45-60 minutos a 20 metros.' },
+      { q: '¿Respirar más despacio siempre reduce el consumo de aire?', a: 'No necesariamente. Respirar demasiado despacio puede llevar a hipercapnia (acumulación de CO2), que es peligrosa. El objetivo no es respirar lo más despacio posible, sino respirar de forma completa y eficiente: inhalar llenando completamente los pulmones y exhalar vaciándolos. La frecuencia ideal suele ser entre 8 y 12 respiraciones por minuto bajo el agua.' },
+    ],
+    content: `<p>El consumo de aire es la obsesión silenciosa de todo buceador. No importa si llevas 5 inmersiones o 500: siempre quieres que el manómetro baje más despacio. Hay una razón práctica obvia (más aire = más tiempo en el fondo), pero también hay una razón de ego que los buceadores no siempre admiten: el que menos aire consume es el más experto del grupo. Es el marcador tácito de la habilidad en el buceo.</p>
+
+<p>Después de impartir más de dos mil inmersiones guiadas en el Mediterráneo español, puedo decirte con certeza absoluta cuáles son los factores que más influyen en el consumo de aire. Aquí van los 12 trucos reales, ordenados de mayor a menor impacto.</p>
+
+<h2>Trucos 1-3: El lastrado y la flotabilidad (el 80% de la solución)</h2>
+
+<p><strong>Truco 1: Corrige tu lastrado antes de cualquier otra cosa.</strong> El truco número 1 para consumir menos aire es la flotabilidad neutra perfecta. Un buceador bien lastrado puede ahorrar hasta un 40% de aire respecto a uno sobre-lastrado. La razón es simple: el sobre-lastrado obliga a compensar constantemente con el BCD inflado, que a su vez desestabiliza la posición, que a su vez genera más patadas, que consumen más oxígeno. Todo empieza por el lastre correcto. Si no sabes cuánto necesitas, empieza por ahí antes de intentar cualquier otro truco.</p>
+
+<p><strong>Truco 2: Vacía el BCD completamente antes de bucear.</strong> Muchos buceadores empiezan la inmersión con el BCD ligeramente inflado "por si acaso". Ese aire extra significa que estás compensando un sobre-lastrado. Baja con el BCD completamente vacío. Si te hundes demasiado, es que llevas demasiado lastre — quita 0,5 kg en la próxima inmersión.</p>
+
+<p><strong>Truco 3: Adopta la posición horizontal perfecta.</strong> Un buceador vertical (cabeza arriba, pies abajo) tiene la resistencia hidrodinámica de un paracaídas. La posición horizontal reduce la resistencia al avance y permite que cada patada te propulse más lejos con menos esfuerzo. La posición horizontal correcta generalmente se consigue ajustando el trim del lastre, no solo la cantidad total.</p>
+
+<h2>Trucos 4-6: La respiración</h2>
+
+<p><strong>Truco 4: Respira desde el diafragma, no desde el pecho.</strong> La respiración diafragmática (del vientre) es más eficiente que la torácica (del pecho). Cuando respiras desde el diafragma, usas más volumen pulmonar con cada respiración, lo que significa que puedes respirar más despacio manteniendo la misma oxigenación. Practica esto en tierra: tumbado, pon una mano en el pecho y otra en el vientre. Al inhalar, solo debe moverse la mano del vientre.</p>
+
+<p><strong>Truco 5: Exhala completamente antes de inhalar.</strong> El error más común en la respiración subacuática es no exhalar del todo. Si no vacías completamente los pulmones, la próxima inhalación introduce menos volumen de aire. Practica la exhalación completa (dura 6-8 segundos) antes de cada inhalación.</p>
+
+<p><strong>Truco 6: No aguantes la respiración.</strong> Aguantar la respiración bajo el agua (apnea) no ahorra aire: lo malgasta. Cuando aguantas, el CO2 se acumula y cuando finalmente respiras, lo haces de forma más intensa y ansiosa. Además, la apnea tiene riesgos de sobreexpansión pulmonar. Respira siempre de forma continua.</p>
+
+<h2>Trucos 7-9: El esfuerzo físico y la técnica de nado</h2>
+
+<p><strong>Truco 7: Nada más despacio.</strong> La resistencia hidrodinámica aumenta con el cuadrado de la velocidad. Nadar el doble de rápido requiere cuatro veces más esfuerzo. Los buceadores con bajo consumo nadan lento y se deslizan. No hay prisa bajo el agua.</p>
+
+<p><strong>Truco 8: Usa solo las piernas para avanzar.</strong> Los brazos no son eficientes para la propulsión en el agua con aletas. Cruzarlos sobre el pecho o mantenerlos pegados al cuerpo reduce la resistencia y el esfuerzo. La patada de buceo correcta (amplia, desde la cadera, con las rodillas ligeramente flexionadas) es la que menos consumo genera.</p>
+
+<p><strong>Truco 9: Usa la corriente a tu favor.</strong> Si hay corriente, planifica la inmersión para ir con ella, no contra ella. Ir contra una corriente de un nudo puede triplicar el consumo de aire.</p>
+
+<h2>Trucos 10-12: El estado mental y la gestión de la inmersión</h2>
+
+<p><strong>Truco 10: Controla el estrés antes de entrar al agua.</strong> La adrenalina y el cortisol aumentan el consumo de oxígeno. Un buceador nervioso consume más aire que uno relajado con el mismo nivel de actividad física. Tómate 2-3 minutos en superficie para respirar conscientemente antes de sumergirte.</p>
+
+<p><strong>Truco 11: Mantén la temperatura corporal.</strong> El frío obliga al cuerpo a gastar energía para calentarse, lo que aumenta el consumo de oxígeno. Un traje adecuado a la temperatura del agua no es solo comodidad: es eficiencia.</p>
+
+<p><strong>Truco 12: Practica inmersiones específicas de flotabilidad.</strong> Dedica al menos una inmersión de cada temporada exclusivamente a practicar flotabilidad en piscina: el ejercicio de la flor de loto, mantener la profundidad solo con la respiración, la parada de seguridad con BCD vacío. No esperes a que la habilidad llegue sola con el tiempo.</p>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Factor</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Impacto en consumo</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Dificultad de mejora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Lastrado correcto</td>
+      <td class="border border-gray-300 p-2">Hasta -40%</td>
+      <td class="border border-gray-300 p-2">Baja (requiere test)</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Posición horizontal</td>
+      <td class="border border-gray-300 p-2">Hasta -25%</td>
+      <td class="border border-gray-300 p-2">Media (práctica)</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Velocidad de nado</td>
+      <td class="border border-gray-300 p-2">Hasta -20%</td>
+      <td class="border border-gray-300 p-2">Baja (consciencia)</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Respiración diafragmática</td>
+      <td class="border border-gray-300 p-2">Hasta -15%</td>
+      <td class="border border-gray-300 p-2">Media (práctica en tierra)</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Control del estrés</td>
+      <td class="border border-gray-300 p-2">Hasta -15%</td>
+      <td class="border border-gray-300 p-2">Alta (experiencia)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Por qué los principiantes consumen tanto más aire que los buceadores experimentados?</h3>
+<p>Principalmente por tres razones: más esfuerzo físico (por postura incorrecta y sobre-lastrado), más tensión muscular (el estrés dispara el consumo de oxígeno) y respiración incorrecta (superficial y rápida en lugar de profunda y lenta). Un buceador experimentado con flotabilidad neutra puede consumir hasta 3 veces menos aire que un principiante nervioso y sobre-lastrado.</p>
+
+<h3>¿Cómo puedo mejorar mi SAC rate?</h3>
+<p>El SAC rate se mejora con práctica sistemática: inmersiones dedicadas a la flotabilidad en piscina, ejercicios de respiración diafragmática fuera del agua, y reducción progresiva del esfuerzo físico durante las inmersiones. Lo más efectivo es corregir el lastrado primero, porque eso elimina la causa raíz del alto consumo.</p>
+
+<h3>¿Qué tamaño de botellín recomiendan los instructores para principiantes?</h3>
+<p>La mayoría de cursos usan botellines de 12 litros de acero, que es el estándar en España. Para principiantes con alto consumo, algunos instructores prefieren el 15L para tener más margen. A medida que el consumo mejora, el 10L o incluso el 7L se vuelve suficiente para inmersiones de 45-60 minutos a 20 metros.</p>
+
+<h3>¿Respirar más despacio siempre reduce el consumo de aire?</h3>
+<p>No necesariamente. Respirar demasiado despacio puede llevar a hipercapnia (acumulación de CO2). El objetivo no es respirar lo más despacio posible, sino respirar de forma completa y eficiente: inhalar llenando completamente los pulmones y exhalar vaciándolos. La frecuencia ideal suele ser entre 8 y 12 respiraciones por minuto bajo el agua.</p>`,
+  },
+  {
+    slug: 'equipo-buceo-principiantes-guia',
+    title: 'Guía de Equipo de Buceo para Principiantes: Qué Comprar Primero (y Qué No)',
+    excerpt: 'Guía de compra de equipo de buceo para principiantes: qué comprar en el primer año, qué esperar, marcas recomendadas en España y cómo evitar gastar de más.',
+    image: 'https://images.unsplash.com/photo-1590159983013-d4ba5c2bec40?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Equipo completo de buceo para principiantes',
+    publishedAt: '2026-03-25',
+    faq: [
+      { q: '¿Cuánto cuesta el equipo completo de buceo para principiantes en España?', a: 'Un equipo completo (máscara, aletas, traje 5mm, BCD, regulador, ordenador, botellín) puede costar entre 800€ y 2.500€ nuevo, dependiendo de las marcas. La opción económica es Decathlon Subea (equipo funcional desde 600-800€). La gama media (Cressi, Mares, Aqualung) ronda los 1.200-1.800€. Los botellines normalmente se alquilan o se compran de segunda mano.' },
+      { q: '¿Es mejor comprar equipo nuevo o de segunda mano?', a: 'Para el regulador y el BCD, recomiendo comprar nuevo o de segunda mano con historial conocido y revisión reciente. El regulador es el equipo de seguridad crítico: no es el momento de ahorrar comprando uno de origen desconocido. Máscara, aletas y traje pueden comprarse de segunda mano sin problema. Los botellines de segunda mano son una excelente opción si tienen la revisión al día.' },
+      { q: '¿Qué marca de equipo de buceo es mejor para principiantes en España?', a: 'Decathlon Subea ofrece la mejor relación calidad-precio para principiantes. Su equipo es funcional, tiene buena red de servicio técnico en España y los precios son accesibles. Para dar el siguiente paso, Cressi (italiano, muy popular en España), Mares y Aqualung son las marcas más presentes en los clubs de buceo. Scubapro es excelente pero más cara.' },
+      { q: '¿Debo comprar el botellín de buceo?', a: 'Para principiantes, generalmente no merece la pena. Los botellines requieren revisiones anuales (visual) y quinquenales (hidrostática), tienen costes de recarga y son voluminosos. La mayoría de buceadores con menos de 50-100 inmersiones al año prefieren alquilar. Cuando buceas más de 100 veces al año, la compra empieza a amortizarse.' },
+    ],
+    content: `<p>Una de las primeras preguntas que se hace cualquier persona que acaba de hacer su Open Water es: "¿qué equipo compro primero?" Y es una pregunta con trampas, porque la respuesta no es obviamente "todo lo que necesito para bucear". En el primer año de buceo, comprar demasiado equipo demasiado pronto es uno de los errores más comunes y más caros.</p>
+
+<p>Llevo doce años viendo este patrón en los clubs de buceo: el nuevo buceador, entusiasmado después de su curso, se gasta 2.000€ en equipo completo. Buceas veinte veces el primer año, el segundo año buceas diez, el tercero guardas el equipo y no vuelves a tocarlo. El equipo acaba en Wallapop por la mitad del precio.</p>
+
+<h2>La estrategia de compra por fases</h2>
+
+<p>La estrategia correcta es comprar en fases, empezando por el equipo que aporta más valor personal (lo que te ajusta a ti específicamente) y aplazando lo que puedes alquilar fácilmente.</p>
+
+<h3>Fase 1 (Inmediata): Máscara, aletas y ordenador</h3>
+<p>Estos tres elementos son los que más dependen del ajuste personal. Una máscara que sella bien en tu cara es irremplazable — alquilar una máscara y rezar para que no entre agua es una experiencia frustrante que te quitará el placer de bucear. Las aletas deben ajustarse bien al pie con o sin escarpín. El ordenador de buceo es personal porque guarda tu historial de inmersiones y te das cuenta rápidamente de que quieres ver tus propios datos.</p>
+
+<h3>Fase 2 (Primer año): Traje y regulador</h3>
+<p>El traje es personal por razones de comodidad e higiene. Un traje que te queda bien marca la diferencia entre disfrutar y sufrir una inmersión fría. El regulador es el equipo de seguridad más importante — muchos buceadores prefieren tener el suyo propio para conocer exactamente su estado y historial de mantenimiento.</p>
+
+<h3>Fase 3 (Cuando te aficionas de verdad): BCD y botellín</h3>
+<p>El BCD y el botellín son los equipos más fáciles de alquilar y los que menos diferencia personal hacen al principio. Espera a tener claro qué tipo de buceo te gusta (recreativo, fotográfico, técnico) antes de invertir en estos equipos.</p>
+
+<h2>El lastre: antes de comprar el cinturón, calcula cuánto necesitas</h2>
+
+<p>Antes de comprar el cinturón de plomos, calcula cuánto lastre necesitas. Muchos principiantes compran un cinturón cargado con 10 kg "porque es lo que les dieron en el curso" sin tener ni idea de si es correcto para ellos. Nuestra calculadora te da el número exacto antes de comprar nada, usando tu peso, tipo de traje y tipo de agua. Así compras exactamente los plomos que necesitas — no más, no menos.</p>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Equipo</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Prioridad de compra</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Precio orientativo (nuevo)</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Marca recomendada</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Máscara</td>
+      <td class="border border-gray-300 p-2">Inmediata</td>
+      <td class="border border-gray-300 p-2">30-150€</td>
+      <td class="border border-gray-300 p-2">Cressi, Mares, Subea</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Aletas</td>
+      <td class="border border-gray-300 p-2">Inmediata</td>
+      <td class="border border-gray-300 p-2">40-200€</td>
+      <td class="border border-gray-300 p-2">Cressi, Mares, Subea</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Ordenador de buceo</td>
+      <td class="border border-gray-300 p-2">Inmediata</td>
+      <td class="border border-gray-300 p-2">100-500€</td>
+      <td class="border border-gray-300 p-2">Suunto, Garmin, Cressi</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Traje de neopreno</td>
+      <td class="border border-gray-300 p-2">Primer año</td>
+      <td class="border border-gray-300 p-2">80-400€</td>
+      <td class="border border-gray-300 p-2">Cressi, Mares, Subea</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Regulador</td>
+      <td class="border border-gray-300 p-2">Primer año</td>
+      <td class="border border-gray-300 p-2">200-800€</td>
+      <td class="border border-gray-300 p-2">Scubapro, Aqualung, Mares</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">BCD</td>
+      <td class="border border-gray-300 p-2">Cuando te aficionas</td>
+      <td class="border border-gray-300 p-2">200-700€</td>
+      <td class="border border-gray-300 p-2">Mares, Aqualung, Scubapro</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Botellín</td>
+      <td class="border border-gray-300 p-2">Opcional / segunda mano</td>
+      <td class="border border-gray-300 p-2">200-500€</td>
+      <td class="border border-gray-300 p-2">Faber, Roth, Luxfer</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Dónde comprar equipo de buceo en España</h2>
+
+<p>Las opciones principales en España son:</p>
+
+<ul>
+  <li><strong>Decathlon (sección Subea):</strong> La opción más económica. Buenos productos de gama de entrada. Ventaja: muchas tiendas físicas en toda España. Inconveniente: gama limitada en categorías técnicas.</li>
+  <li><strong>Tiendas especializadas:</strong> Buceo.com, DivingTech, y las tiendas de los centros de buceo locales. Mayor variedad y asesoramiento profesional, precios más altos pero con servicio técnico.</li>
+  <li><strong>Online internacional:</strong> Leisure Pro (EE.UU.), Mikes Dive Store (UK), DiveInn (España). Buenos precios, pero sin posibilidad de probar el equipo y con menos garantías de servicio posventa en España.</li>
+  <li><strong>Segunda mano:</strong> Wallapop y grupos de Facebook de buceo (Buceadores de España, Buceo en el Mediterráneo) tienen ofertas frecuentes. Recomendado para trajes, aletas y botellines. Más cuidado con reguladores y BCDs sin historial conocido.</li>
+</ul>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Cuánto cuesta el equipo completo de buceo para principiantes en España?</h3>
+<p>Un equipo completo puede costar entre 800€ y 2.500€ nuevo, dependiendo de las marcas. La opción económica es Decathlon Subea (equipo funcional desde 600-800€). La gama media (Cressi, Mares, Aqualung) ronda los 1.200-1.800€. Los botellines normalmente se alquilan o se compran de segunda mano.</p>
+
+<h3>¿Es mejor comprar equipo nuevo o de segunda mano?</h3>
+<p>Para el regulador y el BCD, recomiendo comprar nuevo o de segunda mano con historial conocido y revisión reciente. El regulador es el equipo de seguridad crítico. Máscara, aletas y traje pueden comprarse de segunda mano sin problema. Los botellines de segunda mano son una excelente opción si tienen la revisión al día.</p>
+
+<h3>¿Qué marca de equipo de buceo es mejor para principiantes en España?</h3>
+<p>Decathlon Subea ofrece la mejor relación calidad-precio para principiantes. Para dar el siguiente paso, Cressi (muy popular en España), Mares y Aqualung son las marcas más presentes en los clubs de buceo. Scubapro es excelente pero más cara.</p>
+
+<h3>¿Debo comprar el botellín de buceo?</h3>
+<p>Para principiantes, generalmente no merece la pena. Los botellines requieren revisiones anuales y quinquenales, tienen costes de recarga y son voluminosos. La mayoría de buceadores con menos de 50-100 inmersiones al año prefieren alquilar. Cuando buceas más de 100 veces al año, la compra empieza a amortizarse.</p>`,
+  },
+  {
+    slug: 'cuanto-cuesta-titulo-buceo-open-water-espana',
+    title: 'Cuánto Cuesta Sacarse el Título de Buceo Open Water en España (2026)',
+    excerpt: 'Precios actualizados del curso Open Water en España: PADI vs FEDAS, qué incluye, dónde es más barato y qué necesitas preparar antes del primer día.',
+    image: 'https://images.unsplash.com/photo-1488829068083-58e9c3afea73?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Cursillo de buceo Open Water con instructor en España',
+    publishedAt: '2026-03-27',
+    faq: [
+      { q: '¿Cuánto cuesta el Open Water en España en 2026?', a: 'El precio del curso Open Water en España varía entre 250€ y 450€ dependiendo del centro, la zona geográfica y lo que incluya. Los precios más bajos se encuentran en zonas de alta competencia como la Costa Brava, Ibiza o la Costa del Sol. Los más altos en ciudades del interior donde hay menos centros de buceo.' },
+      { q: '¿PADI o FEDAS: cuál es mejor en España?', a: 'Ambas certificaciones son reconocidas internacionalmente. PADI tiene mayor reconocimiento global (es la certificadora más grande del mundo) y es la más habitual en destinos de buceo internacionales. FEDAS (Federación Española de Actividades Subacuáticas) tiene mayor presencia en los clubs deportivos locales en España y ofrece un itinerario propio muy sólido. Para bucear en España, cualquiera de las dos es perfectamente válida.' },
+      { q: '¿Qué incluye el precio del Open Water?', a: 'El precio estándar suele incluir: material didáctico (manual o acceso digital), uso de equipo completo (BCD, regulador, traje, botellín, aletas, máscara), inmersiones en piscina (confinadas) e inmersiones en mar abierto (4 en total para PADI), tasas de certificación y el certificado físico o digital. Lo que normalmente no incluye: alquiler de equipo personal (máscara, aletas propias), transporte al punto de buceo y seguro de accidentes.' },
+      { q: '¿Cuánto tiempo dura el curso Open Water?', a: 'El formato estándar es de 3-4 días intensivos o 1-2 semanas en formato más cómodo. El formato intensivo (3 días) incluye teoría el primer día, piscina el segundo y 4 inmersiones en mar abierto el tercero. El formato extendido permite hacer la teoría online a tu ritmo antes del curso y las inmersiones en fin de semana.' },
+    ],
+    content: `<p>Sacarse el título de buceo Open Water es uno de esos hitos de vida que mucha gente lleva años pensando y que finalmente decide hacer un verano "de una vez por todas". La pregunta más frecuente antes de apuntarse es: ¿cuánto cuesta? Y la respuesta honesta es: depende de muchas cosas, pero con esta guía podrás comparar precios y saber exactamente qué incluye cada oferta.</p>
+
+<h2>Precios del Open Water en España por zona (2026)</h2>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Zona</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Precio mínimo</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Precio máximo</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Precio medio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Costa Brava (Girona)</td>
+      <td class="border border-gray-300 p-2">280€</td>
+      <td class="border border-gray-300 p-2">400€</td>
+      <td class="border border-gray-300 p-2">330€</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Costa Dorada / Barcelona</td>
+      <td class="border border-gray-300 p-2">300€</td>
+      <td class="border border-gray-300 p-2">420€</td>
+      <td class="border border-gray-300 p-2">360€</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Baleares (Mallorca, Ibiza)</td>
+      <td class="border border-gray-300 p-2">300€</td>
+      <td class="border border-gray-300 p-2">450€</td>
+      <td class="border border-gray-300 p-2">380€</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Murcia / Alicante</td>
+      <td class="border border-gray-300 p-2">260€</td>
+      <td class="border border-gray-300 p-2">380€</td>
+      <td class="border border-gray-300 p-2">310€</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Canarias</td>
+      <td class="border border-gray-300 p-2">250€</td>
+      <td class="border border-gray-300 p-2">400€</td>
+      <td class="border border-gray-300 p-2">320€</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Madrid (piscina + mar)</td>
+      <td class="border border-gray-300 p-2">350€</td>
+      <td class="border border-gray-300 p-2">500€</td>
+      <td class="border border-gray-300 p-2">420€</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>PADI vs FEDAS: las diferencias prácticas</h2>
+
+<p>La pregunta sobre qué certificación elegir es recurrente en los foros de buceo españoles. La realidad es que para el 95% de los buceadores recreativos, la diferencia es mínima.</p>
+
+<p><strong>PADI</strong> (Professional Association of Diving Instructors) es la mayor organización de formación de buceo del mundo, con más de 6.000 centros en más de 180 países. Su material didáctico (ahora en formato digital, e-learning) está disponible en más de 25 idiomas. Si planeas bucear en el extranjero (Maldivas, Egipto, Tailandia, Caribe), el carnet PADI se reconoce sin problemas en cualquier parte del mundo.</p>
+
+<p><strong>FEDAS</strong> (Federación Española de Actividades Subacuáticas) es el organismo oficial del buceo deportivo en España, afiliado a la CMAS (Confederación Mundial de Actividades Subacuáticas). Sus titulaciones tienen una estructura más progresiva y los clubs federados en España suelen tenerla como certificación de referencia. El carnet CMAS también tiene reconocimiento internacional, aunque en algunos destinos turísticos puede generar más preguntas que el PADI.</p>
+
+<h2>Qué necesitas preparar antes del primer día</h2>
+
+<p>El Open Water tiene requisitos previos sencillos: saber nadar razonablemente bien (no necesitas ser nadador de competición, pero debes poder nadar 200 metros y flotar 10 minutos), tener 10 años como mínimo (con límites de profundidad adicionales para menores de 15), y pasar un cuestionario médico básico. Enfermedades cardiovasculares graves, asma severa o algunas condiciones pulmonares pueden requerir un certificado médico específico.</p>
+
+<p>Durante el curso Open Water tendrás clases de flotabilidad en piscina desde el primer día. Guarda ya la calculadora de lastrado porque la necesitarás desde el inicio para entender cuánto peso necesitas según tu configuración de equipo. Llegar al primer día con ese concepto claro te pone por delante del resto de la clase.</p>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Cuánto cuesta el Open Water en España en 2026?</h3>
+<p>El precio varía entre 250€ y 450€ dependiendo del centro y la zona geográfica. Los precios más bajos se encuentran en zonas de alta competencia como la Costa Brava, Ibiza o la Costa del Sol. Los más altos en ciudades del interior donde hay menos centros de buceo.</p>
+
+<h3>¿PADI o FEDAS: cuál es mejor en España?</h3>
+<p>Ambas certificaciones son reconocidas internacionalmente. PADI tiene mayor reconocimiento global y es la más habitual en destinos de buceo internacionales. FEDAS tiene mayor presencia en los clubs deportivos locales en España. Para bucear en España, cualquiera de las dos es perfectamente válida.</p>
+
+<h3>¿Qué incluye el precio del Open Water?</h3>
+<p>El precio estándar suele incluir: material didáctico, uso de equipo completo, inmersiones en piscina e inmersiones en mar abierto (4 en total para PADI), tasas de certificación y el certificado. Lo que normalmente no incluye: alquiler de equipo personal propio, transporte al punto de buceo y seguro de accidentes.</p>
+
+<h3>¿Cuánto tiempo dura el curso Open Water?</h3>
+<p>El formato estándar es de 3-4 días intensivos o 1-2 semanas en formato más cómodo. El formato intensivo incluye teoría el primer día, piscina el segundo y 4 inmersiones en mar abierto el tercero. El formato extendido permite hacer la teoría online a tu ritmo antes del curso y las inmersiones en fin de semana.</p>`,
+  },
+  {
+    slug: 'errores-primer-ano-buceo',
+    title: 'Los 5 Errores más Comunes en el Primer Año de Buceo y Cómo Evitarlos',
+    excerpt: 'Los 5 errores que comete casi todo el mundo en el primer año de buceo: lastrado incorrecto, equipo mal elegido, mala planificación y cómo resolverlos antes de que se conviertan en hábito.',
+    image: 'https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=1200&h=630&fit=crop&q=80',
+    imageAlt: 'Instructor corrigiendo errores de buceo a principiante',
+    publishedAt: '2026-03-28',
+    faq: [
+      { q: '¿Es normal consumir mucho aire en el primer año de buceo?', a: 'Completamente normal. Un principiante típico consume entre 20 y 30 litros por minuto en superficie equivalente (SAC rate), frente a los 10-15 litros de un buceador experimentado. Esa diferencia se debe principalmente al estrés, al sobre-lastrado y a la postura incorrecta. Con 20-30 inmersiones bien enfocadas, el consumo mejora dramáticamente.' },
+      { q: '¿Cuándo se considera que un buceador ya no es principiante?', a: 'No hay una definición universal, pero la mayoría de instructores consideran que un buceador ha superado la fase de principiante cuando tiene entre 25 y 50 inmersiones, controla la flotabilidad de forma autónoma, planifica sus inmersiones de forma independiente y se siente cómodo en situaciones imprevistas bajo el agua.' },
+      { q: '¿Cuáles son los accidentes más frecuentes en principiantes de buceo?', a: 'Los más frecuentes son los barotraumas de oído (no compensar correctamente), las subidas descontroladas (por pánico o sub-lastrado), y los problemas de flotabilidad que llevan a contacto con el fondo. Los accidentes graves son estadísticamente muy raros en el buceo recreativo bien supervisado, especialmente con certificaciones actualizadas.' },
+      { q: '¿Es necesario seguir formándose después del Open Water?', a: 'El Open Water te da los fundamentos para bucear de forma segura hasta 18 metros (o 20 según el sistema de certificación) con compañero. Para acceder a más profundidad, buceo nocturno, pecios, corriente o navegación, el Advanced Open Water y los cursos de especialidad amplían las capacidades. La formación continua es parte de la cultura del buceo responsable.' },
+    ],
+    content: `<p>El primer año de buceo es el más emocionante y el más lleno de errores. No es una crítica: es inevitable. Cada nueva habilidad que aprendes expone otra que todavía no tienes. El problema es que algunos errores del primer año se convierten en hábitos del segundo y del tercero, y son mucho más difíciles de corregir cuando ya están arraigados. En este artículo identifico los cinco errores más comunes que veo repetidamente en principiantes, con la solución específica para cada uno.</p>
+
+<h2>Error 1: Lastrado incorrecto (y seguir así)</h2>
+
+<p>El error número 1 es el lastrado incorrecto, y lo es porque es el más frecuente, el que más consecuencias tiene y el más fácil de resolver si se aborda correctamente. La mayoría de principiantes salen del curso Open Water sobre-lastrados — los instructores añaden lastre "de seguridad" para asegurarse de que el alumno no flota durante las prácticas. El problema es que ese lastre de seguridad se convierte en el lastre habitual, y el principiante pasa sus primeras decenas de inmersiones con demasiado plomo.</p>
+
+<p>Las consecuencias son en cascada: el sobre-lastrado obliga a inflar el BCD para compensar, lo que genera una postura vertical, que aumenta la resistencia al avance, que dispara el consumo de aire, que hace que la inmersión sea más corta y más agotadora. Todo por no hacer el test de flotabilidad correcto.</p>
+
+<p>La solución es sencilla y cuesta lo mismo que una comida: el error número 1 es el lastrado incorrecto, y es el más fácil de resolver. Nuestra calculadora te da tu configuración exacta por 4,99€ — un número concreto, calculado para tu peso, tu traje y el tipo de agua donde buceas. Ese número te ahorra meses de ensayo y error.</p>
+
+<h2>Error 2: Comprar todo el equipo el primer mes</h2>
+
+<p>El entusiasmo post-Open Water lleva a muchos principiantes a comprarse equipo completo antes de saber qué tipo de buceo les gusta. Hay buceadores que se compran un BCD de gama técnica para bucear en verano tres veces al año en la Costa Brava. Hay fotógrafos subacuáticos que se compran aletas rígidas de competición cuando lo que necesitan son aletas cómodas para largas inmersiones lentas.</p>
+
+<p>La estrategia correcta es esperar a tener claro tu estilo de buceo antes de hacer inversiones grandes. Los únicos equipos que realmente merece la pena comprar en el primer año son los que dependen del ajuste personal: máscara, aletas y ordenador. El resto puede alquilarse mientras defines qué quieres.</p>
+
+<h2>Error 3: No planificar la inmersión</h2>
+
+<p>En el Open Water te enseñan a planificar inmersiones: profundidad máxima, tiempo máximo, punto de retorno, señales de comunicación con el compañero, plan de emergencia. En las primeras inmersiones fuera del curso, muchos principiantes omiten esta planificación porque "es una inmersión sencilla" o "ya lo han hecho muchas veces".</p>
+
+<p>La planificación no es burocracia: es lo que te permite disfrutar la inmersión sin sorpresas. Conocer la profundidad máxima del punto, la temperatura esperada, las corrientes posibles y el plan de ascenso hace que la inmersión sea más tranquila y más segura. Cinco minutos antes de entrar al agua.</p>
+
+<h2>Error 4: Ignorar el mantenimiento del equipo</h2>
+
+<p>El regulador es el equipo que más mantenimiento requiere y el que más se descuida. Muchos principiantes no saben que el regulador debe revisarse anualmente (o cada 100-150 inmersiones, lo que llegue primero) en un servicio técnico autorizado. Un regulador sin revisar puede fallar bajo el agua, lo que es una emergencia seria.</p>
+
+<p>El traje de neopreno también requiere cuidados: lavar con agua dulce después de cada inmersión en el mar, secar alejado del sol directo y almacenar extendido (no doblado). Un traje que se cuida correctamente dura 5-7 años; uno que se descuida puede perder propiedades térmicas en 2-3 temporadas.</p>
+
+<h2>Error 5: No buscar formación adicional después del Open Water</h2>
+
+<p>El Open Water es la licencia de conducir del buceo: te permite hacerlo legalmente, pero no significa que seas un experto. Muchos principiantes se quedan en el Open Water durante años, buceando siempre en los mismos entornos y con las mismas limitaciones, sin dar el paso al Advanced o a los cursos de especialidad.</p>
+
+<p>El Advanced Open Water (que en la mayoría de sistemas se puede hacer con solo 9 inmersiones tras el Open Water) abre el acceso a 30 metros, incluye una inmersión de orientación y una de flotabilidad supervisada. Ese curso de flotabilidad supervisada por sí solo vale el precio completo del Advanced para la mayoría de buceadores del primer año.</p>
+
+<table class="w-full border-collapse text-sm">
+  <thead>
+    <tr>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Error</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Consecuencia</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Solución</th>
+      <th class="border border-gray-300 bg-gray-50 p-2 text-left">Dificultad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border border-gray-300 p-2">Lastrado incorrecto</td>
+      <td class="border border-gray-300 p-2">Alto consumo de aire, postura mala</td>
+      <td class="border border-gray-300 p-2">Test de flotabilidad + calculadora</td>
+      <td class="border border-gray-300 p-2">Muy baja</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Comprar demasiado equipo</td>
+      <td class="border border-gray-300 p-2">Gasto innecesario</td>
+      <td class="border border-gray-300 p-2">Compra por fases</td>
+      <td class="border border-gray-300 p-2">Baja</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">No planificar inmersiones</td>
+      <td class="border border-gray-300 p-2">Sorpresas, menos seguridad</td>
+      <td class="border border-gray-300 p-2">5 minutos de briefing siempre</td>
+      <td class="border border-gray-300 p-2">Baja</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">Descuidar el mantenimiento</td>
+      <td class="border border-gray-300 p-2">Fallos de equipo, coste mayor</td>
+      <td class="border border-gray-300 p-2">Revisión anual del regulador</td>
+      <td class="border border-gray-300 p-2">Baja</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 p-2">No seguir formándose</td>
+      <td class="border border-gray-300 p-2">Estancamiento de habilidades</td>
+      <td class="border border-gray-300 p-2">Advanced OW + especialidades</td>
+      <td class="border border-gray-300 p-2">Media</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Es normal consumir mucho aire en el primer año de buceo?</h3>
+<p>Completamente normal. Un principiante típico consume entre 20 y 30 litros por minuto en superficie equivalente (SAC rate), frente a los 10-15 litros de un buceador experimentado. Esa diferencia se debe principalmente al estrés, al sobre-lastrado y a la postura incorrecta. Con 20-30 inmersiones bien enfocadas, el consumo mejora dramáticamente.</p>
+
+<h3>¿Cuándo se considera que un buceador ya no es principiante?</h3>
+<p>No hay una definición universal, pero la mayoría de instructores consideran que un buceador ha superado la fase de principiante cuando tiene entre 25 y 50 inmersiones, controla la flotabilidad de forma autónoma, planifica sus inmersiones de forma independiente y se siente cómodo en situaciones imprevistas bajo el agua.</p>
+
+<h3>¿Cuáles son los accidentes más frecuentes en principiantes de buceo?</h3>
+<p>Los más frecuentes son los barotraumas de oído (no compensar correctamente), las subidas descontroladas (por pánico o sub-lastrado), y los problemas de flotabilidad que llevan a contacto con el fondo. Los accidentes graves son estadísticamente muy raros en el buceo recreativo bien supervisado.</p>
+
+<h3>¿Es necesario seguir formándose después del Open Water?</h3>
+<p>El Open Water te da los fundamentos para bucear de forma segura hasta 18-20 metros con compañero. Para acceder a más profundidad, buceo nocturno, pecios, corriente o navegación, el Advanced Open Water y los cursos de especialidad amplían las capacidades. La formación continua es parte de la cultura del buceo responsable.</p>`,
+  },
 ]
