@@ -1,0 +1,20 @@
+name: Mirror to micro-saas-spain-2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to micro-saas-spain-2
+        run: |
+          git remote add spain2 https://x-access-token:${{ secrets.MIRROR_TOKEN }}@github.com/AdrielRattes-SERVIDORES-WEB/micro-saas-spain-2.git
+          git push spain2 main --force
